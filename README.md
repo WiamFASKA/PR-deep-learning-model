@@ -23,15 +23,14 @@ Hajar BEKRI - (https://github.com/Bekri-Hajar)
 
 
 🛠️ Technologies et Outils
-Langage: Python 
-Web Framework: Flask 
+Langage: Python Web Framework: Flask 
 Traitement d'image: OpenCV 
 OCR: Easy OCR 
 Machine Learning, Scikit-learn, Deep Learning 
 Versioning: GitHub 
 
 
-⚙️ Fonctionnalités Clés/
+⚙️ Fonctionnalités Clés
 ✅ Upload d'images via une interface web intuitive
 ✅ Détection de la plaque dans l'image (OpenCV)
 ✅ Reconnaissance des caractères (Easy OCR)
