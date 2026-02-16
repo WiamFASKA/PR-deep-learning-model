@@ -7,7 +7,7 @@
 📖 Description
 Développement d'une application web avec Flask permettant la reconnaissance automatique des plaques d'immatriculation (ALPR) à partir d'images. 
 Ce projet utilise des techniques de Deep Learning et de traitement d'image pour extraire et lire les textes sur les plaques. Il est destiné à des cas d'usage concrets tels que :
-- Contrôle d'accès** (parkings privés, entreprises)
+- Contrôle d'accès(parkings privés, entreprises)
 - Surveillance du trafic routier
 - Gestion du stationnement automatisée
 
@@ -23,11 +23,7 @@ Hajar BEKRI - (https://github.com/Bekri-Hajar)
 
 
 🛠️ Technologies et Outils
-Langage: Python Web Framework: Flask 
-Traitement d'image: OpenCV 
-OCR: Easy OCR 
-Machine Learning, Scikit-learn, Deep Learning 
-Versioning: GitHub 
+Langage: Python Web Framework: Flask , Traitement d'image: OpenCV , OCR: Easy OCR , Machine Learning, Scikit-learn, Deep Learning , Versioning: GitHub 
 
 
 ⚙️ Fonctionnalités Clés
