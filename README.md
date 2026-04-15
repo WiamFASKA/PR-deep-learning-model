@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WiamFASKA/PR-deep-learning-model/static/images/LOGO.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/WiamFASKA/PR-deep-learning-model/main/Logo_PR.png" width="250"/>
 </p>
 <h1 align="center"> Plate Recognition | Système de Reconnaissance de Plaques d'Immatriculation </h1>
 
