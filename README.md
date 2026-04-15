@@ -1,4 +1,8 @@
-🚗 Plate Recognition | Système de Reconnaissance de Plaques d'Immatriculation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/WiamFASKA/PR-deep-learning-model/static/images/LOGO.png" width="250"/>
+</p>
+<h1 align="center"> Plate Recognition | Système de Reconnaissance de Plaques d'Immatriculation </h1>
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![Flask](https://img.shields.io/badge/Flask-Web%20App-lightgrey.svg)
